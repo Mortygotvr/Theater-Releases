@@ -6,7 +6,7 @@ Plugins for OBS Studio on Windows. They turn stream events into effects on your 
 |---|---|
 | **Theater Scene** | Redeems that hit your avatar's real outline (throwables, water, fire, lightning, reactions, Lua redeems), poses, the Scene Studio, Rhai chat and alerts, and docks. |
 | **Theater Reader** | Reads Twitch, Kick and YouTube chat and alerts inside OBS, for Theater Scene and the Control Panel. |
-| **Theater Control Panel** | Triggers, commands and modules in an OBS dock, and the Theater Web Source, which replaces Browser Source. |
+| **Theater Control Panel** | Triggers, commands and modules in an OBS dock, and the Theater Web Source, which replaces Browser Source. Its **Convert Browser Sources…** tool (in the 🎭 Theater menu) switches your existing Browser Sources over, keeping their settings. |
 
 ## Install
 
